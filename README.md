@@ -1,5 +1,56 @@
-# Peas-Soundfont
+# Pea's Soundfont
 A custom soundfont designed for MIDI playback using soundfont synthesizers.
+
+made a soundfont :P.. I will keep working on it since it's my main project and i'm a Black MIDI dweeb..
+
+# What's Pea's Soundfont?
+Pea's Soundfont Is a .sf2 file designed for MIDI synthesizers (Virtual midi synth, OmniMIDI [Big shoutout to you Kep 🙂] and other applications that utilize soundfonts).
+The soundfont is known for unique handmade sounds made with synths and effects. 
+
+# What synth can use the soundfont?
+
+BASSMIDI- ✅
+XSYNTH-❔ (TESTING)
+FluidSynth: ❔ (TESTING)
+
+# Will it be lightweight?
+
+I'll try to make the soundfont as small as possible while barely sacrificing quality. It uses .wav files (due to FluidSynth because i want this soundfont to be universal)
+
+
+# How much RAM will it take?
+
+Honestly.. It depends on the files, but I suspect no more than 512MB so you can run It on an XP computer
+
+
+# How can I help?
+
+I dunno... Subscribing to my channel helps enough as it motivates me.. (Link: https://www.youtube.com/@RBLXPea)
+
+
+# PROGRESS:
+
+Piano: ⚠️ (Only one preset..)
+Everything else:  ❌
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 Shield: [![CC BY-NC 4.0][cc-by-nc-shield]][cc-by-nc]
 
