@@ -31,6 +31,7 @@ I dunno... Subscribing to my channel helps enough as it motivates me.. (Link: ht
 # PROGRESS:
 
 Piano: ⚠️ (Only one preset..)
+Drums: ⚠️ (one preset.. WIP)
 Everything else:  ❌
 
 
@@ -42,6 +43,7 @@ Everything else:  ❌
 v0.1: release
 v0.2: Added Drums
 v0.21: Added looping!
+v0.22: Bug fix..
 
 
 
@@ -61,7 +63,7 @@ v0.21: Added looping!
 Sh:ield: [![CC BY-NC 4.0][cc-by-nc-shield]][cc-by-nc]
 
 This work is licensed under a
-[Creative Commons Attribution-NonCommercial 4.0 International License][cc-by-nc].
+[Creative Commons Attribution-NonCommercial 4.0 International License][cc-by-nc]
 
 [![CC BY-NC 4.0][cc-by-nc-image]][cc-by-nc]
 
