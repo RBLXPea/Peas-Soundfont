@@ -38,7 +38,10 @@ Everything else:  ❌
 
 
 
-
+#UPDATE LOG:
+v0.1: release
+v0.2: Added Drums
+v0.21: Added looping!
 
 
 
