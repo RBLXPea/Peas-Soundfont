@@ -10,7 +10,7 @@ The soundfont is known for unique handmade sounds made with synths and effects.
 # What synth can use the soundfont?
 
 BASSMIDI- ✅
-XSYNTH-❔ (TESTING)
+XSYNTH-✅
 FluidSynth: ❔ (TESTING)
 
 # Will it be lightweight?
@@ -34,6 +34,9 @@ Piano (All Presets) : ✅
 Drums: ⚠️ (one preset.. WIP)
 Saw:✅ 
 Square: ✅ 
+Harpsichord: ✅
+Orchestra Hit: ✅
+Accordion: ✅
 
 
 
