@@ -30,10 +30,10 @@ I dunno... Subscribing to my channel helps enough as it motivates me.. (Link: ht
 
 # PROGRESS:
 
-Piano: ⚠️ (Only one preset..)
+Piano (All Presets) : ✅ 
 Drums: ⚠️ (one preset.. WIP)
-Everything else:  ❌
-
+Saw:✅ 
+Square: ✅ 
 
 
 
