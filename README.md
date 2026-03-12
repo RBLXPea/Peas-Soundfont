@@ -11,7 +11,7 @@ The soundfont is known for unique handmade sounds made with synths and effects.
 
 BASSMIDI- ✅
 XSYNTH-✅
-FluidSynth: ❔ (TESTING)
+FluidSynth: ✅ (TESTING)
 
 # Will it be lightweight?
 
@@ -37,6 +37,7 @@ Square: ✅
 Harpsichord: ✅
 Orchestra Hit: ✅
 Accordion: ✅
+and others WIP (wont list...)
 
 
 
@@ -47,6 +48,7 @@ v0.1: release
 v0.2: Added Drums
 v0.21: Added looping!
 v0.22: Bug fix..
+v0.4: added more instruments, you can now play ts3 yay. And i revamped the piano so if you want the older piano other then install the older release
 
 
 
